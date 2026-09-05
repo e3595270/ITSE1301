@@ -5,7 +5,7 @@
   <t>ITSE 1301 Class Work</t>
 </head>
 <body>
-  <p>This is a space for my ITSE-1301 Web-Design Tools website.</p>
+  <p>This is a space for my code.</p>
 
   <hr> 
 
