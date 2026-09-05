@@ -5,7 +5,7 @@
   <t>ITSE 1301 Class Work</t>
 </head>
 <body>
-  <p>This is a space for my code.</p>
+  <p>This is my first repository!</p>
 
   <hr> 
 
