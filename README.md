@@ -1,7 +1,7 @@
 # Hello!
 <html lang="en"> 
 <head> 
-  <meta charset="UTF-8">
+  <meta charset="utf-8">
   <t>ITSE 1301 Class Work</t>
 </head>
 <body>
